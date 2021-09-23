@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ExpertManav
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on twitter
-- 📫 How to reach me twitter
+- 💞️ I’m looking to collaborate on: twitter
+- 📫 How to reach me: twitter
 
 <!---
 ExpertManav/ExpertManav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
