@@ -2,7 +2,7 @@
 - 👀 I’m interested in new innovations
 - 🌱 I’m currently trying to master the things I know and get better at them 
 - 💞️ I’m looking to collaborate on: Twitter @caerlower
-- 📫 How to reach me: Twitter @Caerlower
+- 📫 How to reach me: Twitter - @Caerlower or Telegram - @Colonsan
 
 <!---
 ExpertManav/ExpertManav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
