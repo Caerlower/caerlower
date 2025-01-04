@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Caerlower's GitHub | Stats](https://stats.quine.sh/Caerlower/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Caerlower)
 
-![snake gif](https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg)
