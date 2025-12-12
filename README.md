@@ -1,8 +1,36 @@
-- 👋 Hi, I’m Manav Goyal
-- 👀 I’m interested in new innovations
-- 🌱 I’m currently trying to master the things I know and get better at them 
-- 💞️ I’m looking to collaborate on: Twitter @caerlower
-- 📫 How to reach me: Twitter - @Caerlower or Telegram - @Colonsan
+# 👋 Hi, I'm **manav**
+
+### i am a builder
+
+i’m a passionate developer who enjoys turning ideas into real, impactful products.
+From **AI-powered tools** to **blockchain applications** and **full-stack systems**, I love buildling things that are fast, clean, scalable, and genuinely useful.
+
+I focus on learning by doing — experimenting, shipping, improving, and repeating.
+
+---
+
+## 🔗 Connect With Me
+
+* **LinkedIn:** [https://www.linkedin.com/in/caerlower](https://www.linkedin.com/in/caerlower)
+* **Telegram:** [t.me/Colonsan](https://www.t.me/Colonsan)
+
+---
+
+## 💻 Core Skills
+
+* **AI & Automation**: LLM integrations, AI agents, workflow automation
+* **Blockchain / Web3**: Algorand, token-gated access, wallet integrations
+* **Full-Stack Development**
+
+  * **Frontend:** React, JavaScript, HTML, CSS
+  * **Backend:** Python, FastAPI, Node.js, Express
+  * **Databases:** MongoDB, PostgreSQL
+* **Tools:** Git, GitHub, Docker
+
+---
+
+If you'd like to collaborate, brainstorm ideas, or explore cool tech — feel free to reach out!
+Always open to conversations and new opportunities.
 
 <!---
 ExpertManav/ExpertManav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
