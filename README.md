@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **manav**
+# 👋 hi, i'm **manav**
 
 ### i am a builder
 
