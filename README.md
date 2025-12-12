@@ -2,10 +2,9 @@
 
 ### i am a builder
 
-i’m a passionate developer who enjoys turning ideas into real, impactful products.
-From **AI-powered tools** to **blockchain applications** and **full-stack systems**, I love buildling things that are fast, clean, scalable, and genuinely useful.
+who enjoys turning ideas into real, impactful products, from **AI-powered tools** to **blockchain applications** and **full-stack systems**, I love buildling things that are fast, clean, scalable, and genuinely useful.
 
-I focus on learning by doing — experimenting, shipping, improving, and repeating.
+I focus on learning by doing experimenting, shipping, improving, and repeating.
 
 ---
 
