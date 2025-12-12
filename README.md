@@ -19,7 +19,7 @@ I focus on learning by doing — experimenting, shipping, improving, and repeati
 ## 💻 Core Skills
 
 * **AI & Automation**: LLM integrations, AI agents, workflow automation
-* **Blockchain / Web3**: Algorand, token-gated access, wallet integrations
+* **Blockchain / Web3**: Algorand, Ethereum, Aptos and more
 * **Full-Stack Development**
 
   * **Frontend:** React, JavaScript, HTML, CSS
