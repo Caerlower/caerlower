@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manav 👋</h1>
+<h1 align="center">hi, i'm manav 👋</h1>
 <h3 align="center">full-stack engineer building end-to-end systems across ai and web3</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### about
 
-i design and ship end-to-end systems, apis, frontends, and on-chain product infrastructure with a focus on ai and web3.
+i design and ship end-to-end systems, apis, frontends, and on-chain product infrastructure, with a focus on ai and web3.
 
 - 🔭 currently building full-stack + web3 products (payments, agent infra, on-chain data)
 - 🏆 5x hackathon wins, $8.5k+ in prizes across algorand, aptos, and akindo
@@ -29,52 +29,48 @@ i design and ship end-to-end systems, apis, frontends, and on-chain product infr
 ![python](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![solidity](https://img.shields.io/badge/-solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![java](https://img.shields.io/badge/-java-007396?style=flat-square&logo=java&logoColor=white)
+![sql](https://img.shields.io/badge/-sql-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![c](https://img.shields.io/badge/-c-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
 **frameworks**
 ![react](https://img.shields.io/badge/-react-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![next.js](https://img.shields.io/badge/-next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![node.js](https://img.shields.io/badge/-node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![express](https://img.shields.io/badge/-express-000000?style=flat-square&logo=express&logoColor=white)
+![nestjs](https://img.shields.io/badge/-nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![flask](https://img.shields.io/badge/-flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![django](https://img.shields.io/badge/-django-092E20?style=flat-square&logo=django&logoColor=white)
 
-**tooling**
-![docker](https://img.shields.io/badge/-docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**testing & tooling**
+![hardhat](https://img.shields.io/badge/-hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
+![postman](https://img.shields.io/badge/-postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![git](https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white)
+![docker](https://img.shields.io/badge/-docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![github actions](https://img.shields.io/badge/-github_actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
 ### featured projects
 
-**[oscorp](https://github.com/Caerlower/Oscorp)**
-ai cmo terminal with real x402 usdc micropayments on algorand
-`fastapi` `react` `x402` `supabase`
+**[oscorp](https://github.com/Caerlower/Oscorp)** — ai cmo terminal with real x402 usdc micropayments on algorand. stack: fastapi, react, x402, supabase
 
-**[algointent](https://github.com/Caerlower/algo-intent)**
-natural-language algorand transactions via whatsapp/telegram — 2nd place, algorand hack series 2.0
-`algorand sdk` `nlp` `flask`
+**[algointent](https://github.com/Caerlower/algo-intent)** — natural-language algorand transactions via whatsapp/telegram, 2nd place at algorand hack series 2.0. stack: algorand sdk, nlp, flask
 
-**[nebula](https://github.com/Caerlower/Nebula)**
-mcp server giving ai agents a real stellar wallet with on-chain spend policy
-`mcp` `stellar` `soroban`
+**[nebula](https://github.com/Caerlower/Nebula)** — mcp server giving ai agents a real stellar wallet with on-chain spend policy. stack: mcp, stellar, soroban
 
-**[arkiv jobs](https://github.com/Caerlower/arkiv-job-board)**
-job board where listings and applications live fully on-chain
-`arkiv sdk` `rainbowkit` `wagmi`
-
-full breakdowns on my [portfolio](https://manavgoyal.vercel.app)
+**[arkiv jobs](https://github.com/Caerlower/arkiv-job-board)** — job board where listings and applications live fully on-chain. stack: arkiv sdk, rainbowkit, wagmi
 
 ---
 
 ### github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caerlower&show_icons=true&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caerlower&layout=compact&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Caerlower&show_icons=true&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.app/api/top-langs/?username=Caerlower&layout=compact&theme=dark&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </p>
 
 ---
@@ -84,5 +80,3 @@ full breakdowns on my [portfolio](https://manavgoyal.vercel.app)
 ExpertManav/ExpertManav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![snake gif](https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg)
