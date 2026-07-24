@@ -52,13 +52,13 @@ i design and ship end-to-end systems, apis, frontends, and on-chain product infr
 
 ### featured projects
 
-**[oscorp](https://github.com/Caerlower/Oscorp)** — ai cmo terminal with real x402 usdc micropayments on algorand. stack: fastapi, react, x402, supabase
+**[oscorp](https://github.com/Caerlower/Oscorp)** — ai cmo terminal with real x402 usdc micropayments on algorand.
 
-**[algointent](https://github.com/Caerlower/algo-intent)** — natural-language algorand transactions via whatsapp/telegram, 2nd place at algorand hack series 2.0. stack: algorand sdk, nlp, flask
+**[algointent](https://github.com/Caerlower/algo-intent)** — natural-language algorand transactions via whatsapp/telegram, 2nd place at algorand hack series 2.0.
 
-**[nebula](https://github.com/Caerlower/Nebula)** — mcp server giving ai agents a real stellar wallet with on-chain spend policy. stack: mcp, stellar, soroban
+**[nebula](https://github.com/Caerlower/Nebula)** — mcp server giving ai agents a real stellar wallet with on-chain spend policy.
 
-**[arkiv jobs](https://github.com/Caerlower/arkiv-job-board)** — job board where listings and applications live fully on-chain. stack: arkiv sdk, rainbowkit, wagmi
+**[arkiv jobs](https://github.com/Caerlower/arkiv-job-board)** — job board where listings and applications live fully on-chain.
 
 ---
 
@@ -66,7 +66,7 @@ i design and ship end-to-end systems, apis, frontends, and on-chain product infr
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Caerlower" height="165" />
-  <img src="https://github-stats-extended.app/api/top-langs/?username=Caerlower" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Caerlower" height="165" />
 </p>
 
 <p align="center">
