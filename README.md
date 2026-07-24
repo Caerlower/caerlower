@@ -65,8 +65,8 @@ i design and ship end-to-end systems, apis, frontends, and on-chain product infr
 ### github stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Caerlower&show_icons=true&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-stats-extended.app/api/top-langs/?username=Caerlower&layout=compact&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Caerlower" height="165" />
+  <img src="https://github-stats-extended.app/api/top-langs/?username=Caerlower" height="165" />
 </p>
 
 <p align="center">
